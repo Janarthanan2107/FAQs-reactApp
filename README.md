@@ -1,4 +1,3 @@
-```markdown
 # FAQ's Application
 
 A brief description of your React application.
@@ -6,13 +5,6 @@ A brief description of your React application.
 ## Live Demo
 
 You can access a live demo of this project [here](https://heartfelt-swan-9f64ca.netlify.app/).
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
